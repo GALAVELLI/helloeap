@@ -1,1 +1,10 @@
+<<<<<<< Updated upstream
 Welcome to Git...!
+=======
+Welcome to Devops!
+
+working area staging area
+local repository . branches 
+If problem in v2.0 
+we use git stash
+>>>>>>> Stashed changes
